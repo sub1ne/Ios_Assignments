@@ -2,7 +2,7 @@
 //  Game.swift
 //  ApplePie
 //
-//  Created by Kshitiz on 20/07/25.
+.
 //
 
 import Foundation
