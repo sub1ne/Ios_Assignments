@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ApplePie
 //
-//  Created by Kshitiz on 19/07/25.
+
 //
 
 import UIKit
